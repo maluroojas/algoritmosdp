@@ -79,5 +79,3 @@ nova_lista = list(tupla)
 #converter lista em tupla
 nova_tupla = tuple(lista)
 
-.
-
