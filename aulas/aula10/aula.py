@@ -22,5 +22,5 @@ print ('Exemplo - 3 ', hipotenusa_quadrado(3, 4))
 
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-pares = filter ()
+pares = filter () #terminar de commitar essa parte
 
